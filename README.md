@@ -1,12 +1,12 @@
 <img align="center" alt="coding" width="1000" 
-  src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s500x750/2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif">
+  src="417028981_1330670034315677_8158937925295529830_n (1).jpg">
 
 
 <h1 align="center">Ivan Russ Oxillo</h1>
 <h2 align="center"> Mechatronics Engineering Student </h3>
 
 
-<img align="right" alt="coding" width="300" lenght="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE0amU1ZjkxcGN0Z21odzJtZDAzaGxlOXpsbGpxYm00cTZ6ZTFlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7rvF20PqNuGKSQGhf/giphy.gif">
+<img align="right" alt="coding" width="300" lenght="600" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s500x750/2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srvntwrrior&label=Profile%20views&color=0e75b6&style=flat" alt="srvntwrrior" /> </p>
 
@@ -14,7 +14,7 @@
 
 📨 How to reach me? *oxilloivanruss@gmail.com*
     
-    *Ilove to draw*
+   Hobbies? *Ilove to draw*
    
 
 
